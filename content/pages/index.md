@@ -197,7 +197,7 @@ sections:
     background_color: none
 seo:
   title: CueCard
-  description: The preview of the App theme
+  description: Gather mailing addresses and send holiday cards.
   extra:
     - name: 'og:type'
       value: website
