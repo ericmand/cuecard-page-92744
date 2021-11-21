@@ -196,7 +196,7 @@ sections:
     has_border: false
     background_color: none
 seo:
-  title: Stackbit App Theme
+  title: CueCard
   description: The preview of the App theme
   extra:
     - name: 'og:type'
