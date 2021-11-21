@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Instantly Boost Your Productivity
-    subtitle: Stop switching between calendars and task lists!
+    subtitle: Stop bugging your fr
     content: >
       CueCard allows you to easily gather all your friends mailing addresses for
       holidays and even send them a card. Share your address once and it stays
