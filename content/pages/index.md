@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The contacts info app that Synchronized contact info among friends
+    title: The contacts that stays in sync
     subtitle: Stop bugging your friends each November
     content: >
       CueCard allows you to easily gather all your friends mailing addresses for
