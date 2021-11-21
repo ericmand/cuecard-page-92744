@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Friends contact info auto updated
+    title: Friends contact info auto-updated
     subtitle: Stop bugging your friends each November
     content: >
       CueCard allows you to easily gather all your friends mailing addresses for
