@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Synchronize contact info among friends
+    title: Synchronized contact info among friends
     subtitle: Stop bugging your friends each November
     content: >
       CueCard allows you to easily gather all your friends mailing addresses for
