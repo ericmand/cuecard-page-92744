@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Contacts app that updates itself
+    title: Contact info that updates itself
     subtitle: Stop bugging your friends each November
     content: >
       CueCard allows you to easily gather all your friends mailing addresses for
