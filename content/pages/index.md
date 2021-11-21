@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Instantly Boost Your Productivity
+    title: Syncronized mailing addresses
     subtitle: Stop bugging your friends each November
     content: >
       CueCard allows you to easily gather all your friends mailing addresses for
