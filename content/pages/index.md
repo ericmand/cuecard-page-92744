@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Syncronized mailing addresses
+    title: Synchronized mailing address book
     subtitle: Stop bugging your friends each November
     content: >
       CueCard allows you to easily gather all your friends mailing addresses for
