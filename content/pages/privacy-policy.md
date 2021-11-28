@@ -4,40 +4,94 @@ seo:
   title: Privacy Policy
   description: This is the privacy policy page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Privacy Policy
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the privacy policy page
       keyName: property
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Privacy Policy
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the privacy policy page
 layout: page
 ---
-
-Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique. Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo.
-
-## Phasellus Finibus Risus Eget est Cursus Finibus
-
-Aliquam aliquam porta massa, et aliquam tortor mollis quis. Sed sodales leo vulputate metus gravida cursus. In fringilla imperdiet elit. Etiam eget sapien elementum, facilisis arcu vitae, finibus ipsum. Aliquam erat nibh, commodo id urna ut, fermentum tristique metus.
-
-### Morbi Egestas Ullamcorper Vulputate
-
-Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu lobortis in. Donec facilisis malesuada sapien, non mollis lacus faucibus quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-### Donec Vitae Tincidunt Erat
-
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis. 
-
-## Aliquam at Velit eu Elit Iaculis Cursus
-
-In eu neque leo. Proin felis risus, maximus at ornare non, feugiat ac dui. Nam ornare feugiat sem, ac pretium urna bibendum quis. In hac habitasse platea dictumst. Curabitur sapien ante, molestie sit amet maximus id, malesuada eget felis. Praesent nec imperdiet neque.
+Protecting your private information is our priority. This Statement of Privacy applies to CueCard, and Codify Labs Inc and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Codify Labs Inc include cuecard.cc and Codify Labs. The Codify Labs application is a contact information and mailing application. By using the Codify Labs application, you consent to the data practices described in this statement.
+ 
+Collection of your Personal Information
+In order to better provide you with products and services offered, Codify Labs may collect personally identifiable information, such as your:
+ 
+ -	First and Last Name
+ -	Mailing Address
+ -	E-mail Address
+ -	Phone Number
+ 
+If you purchase Codify Labs's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction.
+ 
+Codify Labs may also collect anonymous demographic information, which is not unique to you, such as your:
+ 
+ -	Age
+ 
+We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services. These may include: (a) registering for an account; (b) entering a sweepstakes or contest sponsored by us or one of our partners; (c) signing up for special offers from selected third parties; (d) sending us an email message; (e) submitting your credit card or other payment information when ordering and purchasing products and services. To wit, we will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.
+ 
+Use of your Personal Information
+Codify Labs collects and uses your personal information to operate and deliver the services you have requested.
+ 
+Codify Labs may also use your personally identifiable information to inform you of other products or services available from Codify Labs and its affiliates.
+ 
+Sharing Information with Third Parties
+Codify Labs does not sell, rent or lease its customer lists to third parties.
+ 
+Codify Labs may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Codify Labs, and they are required to maintain the confidentiality of your information.
+ 
+Codify Labs may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Codify Labs or the site; (b) protect and defend the rights or property of Codify Labs; and/or (c) act under exigent circumstances to protect the personal safety of users of Codify Labs, or the public.
+ 
+Right to Deletion
+Subject to certain exceptions set out below, on receipt of a verifiable request from you, we will:
+•	Delete your personal information from our records; and
+•	Direct any service providers to delete your personal information from their records.
+ 
+Please note that we may not be able to comply with requests to delete your personal information if it is necessary to:
+•	Complete the transaction for which the personal information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between you and us;
+•	Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;
+•	Debug to identify and repair errors that impair existing intended functionality;
+•	Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;
+•	Comply with the California Electronic Communications Privacy Act;
+•	Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when our deletion of the information is likely to render impossible or seriously impair the achievement of such research, provided we have obtained your informed consent;
+•	Enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;
+•	Comply with an existing legal obligation; or
+•	Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
+ 
+Children Under Thirteen
+Codify Labs does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this application.
+ 
+E-mail Communications
+From time to time, Codify Labs may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication.
+ 
+If you would like to stop receiving marketing or promotional communications via email from Codify Labs, you may opt out of such communications by clicking the unsubscribe link.
+ 
+External Data Storage Sites
+We may store your data on servers provided by third party hosting vendors with whom we have contracted.
+ 
+Changes to this Statement
+Codify Labs reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our application, and/or by updating any privacy information. Your continued use of the application and/or Services available after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.
+ 
+Contact Information
+Codify Labs welcomes your questions or comments regarding this Statement of Privacy. If you believe that Codify Labs has not adhered to this Statement, please contact Codify Labs at:
+ 
+Codify Labs Inc
+1571 S 2000 E
+Salt Lake City, Utah 84108
+ 
+Email Address:
+info@cuecard.cc
+ 
+Telephone number:
+‪(408) 728-6441‬
+ 
+Effective as of November 28, 2021
