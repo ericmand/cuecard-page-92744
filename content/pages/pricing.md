@@ -11,18 +11,15 @@ sections:
     grid_items:
       - title: Contact Management
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### Free
 
-          per month, billed yearly
-
-          * Up to 3 calendar integrations
-          * Up to 2 task lists
-          * Color coded notifications
-          * Up to 2 devices
-          * Productivity reporting
+          *   Export to CSV
+          *   Upload to Minted, Shutterfly, etc.
+          *   Synchronized contact list
+          *   Groups for organizing
         content_align: left
         actions:
           - label: Start with Personal
