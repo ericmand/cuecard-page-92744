@@ -52,7 +52,6 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Business
-        subtitle: For your entire team
         title_align: left
         content: |-
           ---
