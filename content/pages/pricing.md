@@ -50,18 +50,15 @@ sections:
         actions_width: full-width
       - title: 6x9 Postcards
         title_align: left
-        content: >
+        content: |
           ***
-
 
           ### $1.50
 
-
-          per month, billed yearly
-
-
-          *   *   As easy as an Instagram post*   Add your photo and a
-          caption*   Anywhere in the US*   International: $3.50
+          *   As easy as an Instagram post
+          *   Add your photo and a caption
+          *   Anywhere in the US
+          *   International: $3.50
         content_align: left
         actions:
           - label: Start with Business
