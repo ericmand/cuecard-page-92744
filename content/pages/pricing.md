@@ -32,18 +32,15 @@ sections:
         actions_width: full-width
       - title: 4x6 Postcards
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### $1
 
-          per month, billed yearly
-
-          * Shared calendar integrations
-          * Unlimited task lists
-          * Synchronized reminders
-          * Shared badgets
-          * Up to 5 devices
+          *   As easy as Instagram
+          *   Add your photo and a caption
+          *   Anywhere in the US
+          *   International: $2.50
         content_align: left
         actions:
           - label: Start with Family
