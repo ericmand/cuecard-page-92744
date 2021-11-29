@@ -50,18 +50,18 @@ sections:
         actions_width: full-width
       - title: 6x9 Postcards
         title_align: left
-        content: |-
-          ---
+        content: >
+          ***
 
-          ### $39
+
+          ### $1.50
+
 
           per month, billed yearly
 
-          * Unlimited calendars
-          * Unlimited task list integrations
-          * Project-based color coding
-          * Scheduled notifications
-          * Task delegation
+
+          *   *   As easy as an Instagram post*   Add your photo and a
+          caption*   Anywhere in the US*   International: $3.50
         content_align: left
         actions:
           - label: Start with Business
