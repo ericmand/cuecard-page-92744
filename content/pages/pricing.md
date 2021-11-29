@@ -31,7 +31,6 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: 4x6 Postcards
-        subtitle: For you and your family members
         title_align: left
         content: |-
           ---
