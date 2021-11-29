@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Pricing
-    subtitle: CueCard is free. Sending postcards is just $1.
+    subtitle: CueCard is free. Sending postcards is just $1/ea.
     align: center
     padding_top: large
     padding_bottom: small
