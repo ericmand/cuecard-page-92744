@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Pricing
-    subtitle: CueCard is free
+    subtitle: 'CueCard is free. If you want to send '
     align: center
     padding_top: large
     padding_bottom: small
