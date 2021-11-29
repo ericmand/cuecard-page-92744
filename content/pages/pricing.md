@@ -51,7 +51,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Business
+      - title: 6x9 Postcards
         title_align: left
         content: |-
           ---
