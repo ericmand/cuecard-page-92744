@@ -135,9 +135,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: >-
-          “Fantastic app for planning your day and future tasks. Works perfectly
-          everyday!”
+      - title: “Saved me precious time during the craziest time”
         subtitle: 'Kate A, RN and mother of four'
         image: images/person-1.png
         image_alt: Person 1 photo
