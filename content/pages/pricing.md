@@ -58,7 +58,7 @@ sections:
           *   International: $4
         content_align: left
         actions:
-          - label: Start with Business
+          - label: Start with Postcards
             url: /thank-you
             style: primary
         actions_align: left
