@@ -40,7 +40,7 @@ sections:
           *   International: $2.50
         content_align: left
         actions:
-          - label: Start with Family
+          - label: Start with Postcards
             url: /thank-you
             style: primary
         actions_align: left
