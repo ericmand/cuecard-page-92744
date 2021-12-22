@@ -48,7 +48,7 @@
         ]
     },
     "footer": {
-        "logo": "images/logo.svg",
+        "logo": "/images/Screen Shot 2021-12-21 at 10.30.25 PM.png",
         "logo_alt": "App logo",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
