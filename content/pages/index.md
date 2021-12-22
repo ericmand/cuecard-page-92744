@@ -98,7 +98,9 @@ sections:
         subtitle: In the time it takes to send a text
         content: >
           You send a link. They type the address. No logins. No ads. They don't
-          even have to type the whole address, it autocompletes!
+          even have to type the whole address, it autocompletes! You control
+          your address in your friends contacts. When you move, update your
+          profile and everyone is current.
         actions:
           - label: Learn More
             url: /pricing
