@@ -142,7 +142,7 @@ sections:
         media_position: right
         media_width: thirty-three
       - title: “I love getting mail now! These cards are so fun”
-        subtitle: 'Travis Guidelines, Manager at Company'
+        subtitle: 'Joan C, Grandmother'
         image: images/person-2.png
         image_alt: Person 2 photo
         media_position: left
