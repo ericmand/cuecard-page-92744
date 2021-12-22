@@ -150,7 +150,7 @@ sections:
     feature_padding_vert: small
     background_color: secondary
   - type: cta_section
-    title: Regain Control of your To Dos
+    title: Regain Control of your Contacts
     content: >
       Download CueCard and get back to celebrating life and its seasons — it
       doesn't get easier than this!
