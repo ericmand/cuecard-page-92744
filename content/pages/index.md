@@ -136,7 +136,7 @@ sections:
   - type: features_section
     features:
       - title: “Saved me precious time during the craziest time”
-        subtitle: 'Kate A, RN and mother of four'
+        subtitle: 'Kate, RN and mother of four'
         image: images/person-1.png
         image_alt: Person 1 photo
         media_position: right
