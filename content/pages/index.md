@@ -96,9 +96,9 @@ sections:
     features:
       - title: Gather addresses
         subtitle: In the time it takes to send a text
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
+        content: >
+          You send a link. They type the address. No logins. No ads. They don't
+          even have to type the whole address, it autocompletes!
         actions:
           - label: Learn More
             url: /pricing
