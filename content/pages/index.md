@@ -94,7 +94,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Send Postcards
+      - title: Gather addresses
         subtitle: For true work-life balance
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
