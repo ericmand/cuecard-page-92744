@@ -30,9 +30,9 @@ sections:
     grid_items:
       - title: Requests via text/SMS
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >
+          Use your phone contacts books (where your friends really are) rather
+          than email
         content_align: left
         actions:
           - label: Learn More
