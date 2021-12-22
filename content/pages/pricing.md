@@ -55,7 +55,7 @@ sections:
           *   As easy as an Instagram post
           *   Add your photo and a caption
           *   Anywhere in the US
-          *   International: $3.50
+          *   International: $4
         content_align: left
         actions:
           - label: Start with Business
