@@ -138,7 +138,7 @@ sections:
       - title: >-
           “Fantastic app for planning your day and future tasks. Works perfectly
           everyday!”
-        subtitle: 'Kate A, RN and mother of five'
+        subtitle: 'Kate A, RN and mother of four'
         image: images/person-1.png
         image_alt: Person 1 photo
         media_position: right
