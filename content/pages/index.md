@@ -113,7 +113,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Send Postcards
-        subtitle: Always be in control
+        subtitle: As easy as sending email
         content: >-
           We all have stuff to do all the time: Work tasks, calls to make,
           groceries to buy and dry cleaning to pick up. Get all your tasks in
