@@ -114,10 +114,11 @@ sections:
         media_width: fifty
       - title: Send Postcards
         subtitle: As easy as sending email
-        content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
+        content: >
+          Add a photo and a message. Done! Send all your holiday cards in the
+          time it took you to read this paragraph. Send on birthdays, as party
+          invites or that cute photo to Grandma so she can hang it on the
+          fridge.
         actions:
           - label: Take a look
             url: /pricing
