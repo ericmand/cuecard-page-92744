@@ -95,7 +95,7 @@ sections:
   - type: features_section
     features:
       - title: Gather addresses
-        subtitle: For true work-life balance
+        subtitle: In the time it takes to send a text
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
           on all your appointments and meetings appear in one place.
