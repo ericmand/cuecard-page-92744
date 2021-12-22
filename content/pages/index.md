@@ -95,7 +95,7 @@ sections:
   - type: features_section
     features:
       - title: Gather addresses
-        subtitle: In the time it takes to send a text
+        subtitle: Easy for you and for them
         content: >
           You send a link. They type the address. No logins. No ads. They don't
           even have to type the whole address, it autocompletes! You control
