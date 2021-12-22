@@ -32,7 +32,7 @@ sections:
         title_align: left
         content: >
           Use your phone contacts books (where your friends really are) rather
-          than email
+          than email. Requests come directly from your phone number.
         content_align: left
         actions:
           - label: Learn More
