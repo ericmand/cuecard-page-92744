@@ -67,9 +67,10 @@ sections:
         image_position: top
       - title: Send Postcards
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >
+          As easy as Instagram, send a postcard by just selecting a photo and
+          adding a message. Use it on vacation, to celebrate a birthday, or for
+          your holiday card. Send 1 or send 300 with a single click.
         content_align: left
         actions:
           - label: Learn More
