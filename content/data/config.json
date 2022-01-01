@@ -37,7 +37,7 @@
             },
             {
                 "label": "Google Play",
-                "url": "/pricing",
+                "url": "https://play.google.com/store/apps/details?id=cc.cuecard",
                 "style": "secondary"
             }
         ]
