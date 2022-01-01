@@ -143,7 +143,7 @@ sections:
           https://apps.apple.com/us/app/cuecard-addresses-and-cards/id1596593334#?platform=iphone
         style: primary
       - label: Google Play
-        url: /pricing
+        url: 'https://play.google.com/store/apps/details?id=cc.cuecard'
         style: secondary
         has_icon: false
         icon: arrow-left
