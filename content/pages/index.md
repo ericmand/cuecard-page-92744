@@ -35,13 +35,7 @@ sections:
           Use your phone contacts books (where your friends really are) rather
           than email. Requests come directly from your phone number.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/icon-1.svg
         image_alt: Icon 1
