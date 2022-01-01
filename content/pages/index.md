@@ -170,7 +170,7 @@ seo:
       value: CueCard
       keyName: property
     - name: 'og:description'
-      value: The preview of the App theme
+      value: Collect mailing addresses and send postcards
       keyName: property
     - name: 'og:image'
       value: /images/Screen Shot 2021-12-21 at 10.30.25 PM.png
