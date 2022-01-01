@@ -39,7 +39,7 @@
                 "label": "Google Play",
                 "url": "https://play.google.com/store/apps/details?id=cc.cuecard",
                 "style": "secondary",
-                "has_icon": true
+                "has_icon": false
             }
         ]
     },
