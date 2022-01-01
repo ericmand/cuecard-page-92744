@@ -10,7 +10,8 @@ sections:
       in sync forever.
     actions:
       - label: App Store
-        url: /pricing
+        url: >-
+          https://apps.apple.com/us/app/cuecard-addresses-and-cards/id1596593334#?platform=iphone
         style: primary
       - label: Google Play
         url: /pricing
