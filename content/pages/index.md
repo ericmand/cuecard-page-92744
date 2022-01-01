@@ -14,7 +14,7 @@ sections:
           https://apps.apple.com/us/app/cuecard-addresses-and-cards/id1596593334#?platform=iphone
         style: primary
       - label: Google Play
-        url: /pricing
+        url: 'https://play.google.com/store/apps/details?id=cc.cuecard'
         style: secondary
     image: /images/hero.svg
     image_alt: Hero section placeholder image
