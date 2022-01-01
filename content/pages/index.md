@@ -61,13 +61,7 @@ sections:
           adding a message. Use it on vacation, to celebrate a birthday, or for
           your holiday card. Send 1 or 300 with a single click.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/icon-3.svg
         image_alt: Icon 3
