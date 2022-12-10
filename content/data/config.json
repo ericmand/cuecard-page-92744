@@ -113,11 +113,11 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; CueCard. All rights reserved."
+        "content": "&copy; CueCard LLC. All rights reserved."
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_content": "Apps have been updated for the 2022/23 holiday season!",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
